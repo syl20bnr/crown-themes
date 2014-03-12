@@ -1,6 +1,6 @@
 (defvar packages
   '(afternoon-theme
-    alect-theme
+    alect-themes
     ample-theme
     ample-zen-theme
     anti-zenburn-theme
@@ -13,12 +13,11 @@
     clues-theme
     colorsarenice-theme
     cyberpunk-theme
-    darkrone-theme
     darkburn-theme
     espresso-theme
     flatland-theme
     gandalf-theme
-    grandhsell-theme
+    grandshell-theme
     gruber-darker-theme
     gruvbox-theme
     hemisu-theme
@@ -49,13 +48,13 @@
     spacegray-theme
     subatomic-theme
     subatomic256-theme
-    sublime-theme
+    sublime-themes
     sunny-day-theme
     tango-2-theme
     tango-plus-theme
     tangotango-theme
     tommyh-theme
-    toxy-theme
+    toxi-theme
     tronesque-theme
     twilight-anti-bright-theme
     twilight-bright-theme
