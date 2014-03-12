@@ -1,7 +1,69 @@
 (defvar packages
   '(afternoon-theme
+    alect-theme
     ample-theme
     ample-zen-theme
+    anti-zenburn-theme
     base16-theme
     birds-of-paradise-plus-theme
+    bubbleberry-theme
+    busybee-theme
+    calmer-forest-theme
+    cherry-blossom-theme
+    clues-theme
+    colorsarenice-theme
+    cyberpunk-theme
+    darkrone-theme
+    darkburn-theme
+    espresso-theme
+    flatland-theme
+    gandalf-theme
+    grandhsell-theme
+    gruber-darker-theme
+    gruvbox-theme
+    hemisu-theme
+    heroku-theme
+    inkpot-theme
+    ir-black-theme
+    leuven-theme
+    moe-theme
+    molokai-theme
+    monokai-theme
+    mustang-theme
+    naquadah-theme
+    noctilux-theme
+    obsidian-theme
+    occidental-theme
+    organic-green-theme
+    pastels-on-dark-theme
+    phoenix-dark-mono-theme
+    phoenix-dark-pink-theme
+    planet-theme
+    purple-haze-theme
+    reverse-theme
+    soft-charcoal-theme
+    soft-morning-theme
+    soft-stone-theme
+    solarized-theme
+    soothe-theme
+    spacegray-theme
+    subatomic-theme
+    subatomic256-theme
+    sublime-theme
+    sunny-day-theme
+    tango-2-theme
+    tango-plus-theme
+    tangotango-theme
+    tommyh-theme
+    toxy-theme
+    tronesque-theme
+    twilight-anti-bright-theme
+    twilight-bright-theme
+    twilight-theme
+    ujelly-theme
+    underwater-theme
+    zen-and-art-theme
+    zenburn-theme
+
+    helm-themes
     ))
