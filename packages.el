@@ -65,5 +65,6 @@
     zen-and-art-theme
     zenburn-theme
 
+    helm
     helm-themes
     ))
